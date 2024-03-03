@@ -7,7 +7,7 @@ const About = () => {
                <div className='pb-8'>
                     <p className='text-4xl font-bold border-b-4 inline border-gray-500 '>About</p>
                </div>
-               <p className='text-xl mt-20'>
+               <p className='text-xl'>
                     Proficient in HTML, CSS, JavaScript, and related frameworks such as React.JS and Vue.Js.Experienced in server-side languages like PHP, with a solid understanding of database management systems like MySQL and MongoDB.Familiar with version control systems such as Git and collaborative development workflows.Strong understanding of web performance optimization and best practices.Skilled in the design, development, and administration of intricate web applications.Excellent communication skills and ability to work effectively in both independent and team environments.
                </p>
                <br />
