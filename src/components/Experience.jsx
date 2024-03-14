@@ -10,7 +10,7 @@ import mongodb from "../assets/mongodb.png"
 import typescript from "../assets/typescript.png"
 import bootstrap from "../assets/bootstrap.png"
 import php from "../assets/php.jpg"
-import docker from "../assets/docker.png"
+import docker from "../assets/docker.svg"
 
 const Experience = () => {
      const techs = [
