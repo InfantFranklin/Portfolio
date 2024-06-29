@@ -11,6 +11,7 @@ import typescript from "../assets/typescript.png"
 import bootstrap from "../assets/bootstrap.png"
 import php from "../assets/php.jpg"
 import docker from "../assets/docker.svg"
+import node from "../assets/node.png"
 
 const Experience = () => {
      const techs = [
@@ -46,42 +47,48 @@ const Experience = () => {
           },
           {
             id: 6,
+            src: node,
+            title: "Nodejs",
+            style: "shadow-green-600",
+          },
+          {
+            id: 7,
             src: typescript,
             title: "TypeScript",
             style: "shadow-cyan-400",
           },
           {
-            id: 7,
+            id: 8,
             src: tailwind,
-            title: "Tailwind",
+            title: "Tailwind CSS",
             style: "shadow-sky-400",
           },
           {
-            id: 8,
+            id: 9,
             src: github,
             title: "GitHub",
             style: "shadow-lime-100",
           },
           {
-            id: 9,
+            id: 10,
             src: mongodb,
             title: "Mongo DB",
             style: "shadow-white",
           },
           {
-            id: 10,
+            id: 11,
             src: php,
             title: "PHP",
             style: "shadow-indigo-400",
           },
           {
-            id: 11,
+            id: 12,
             src: bootstrap,
             title: "Bootstrap",
             style: "shadow-purple-400",
           },
           {
-            id: 12,
+            id: 13,
             src: docker,
             title: "Docker",
             style: "shadow-cyan-400",
