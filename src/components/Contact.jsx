@@ -154,7 +154,7 @@ const Contact = () => {
         </p>
         <div className="flex gap-3 justify-center pb-4">
           <a
-            href="/resume-frontend.pdf"
+            href="/infant-resume-frontend.pdf"
             download
             className="px-5 py-2.5 rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 text-white text-sm hover:scale-105 duration-300"
           >
@@ -162,7 +162,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="/resume-fullstack.pdf"
+            href="/infant-resume-fullstack.pdf"
             download
             className="px-5 py-2.5 rounded-md border border-cyan-500 text-cyan-400 text-sm hover:scale-105 duration-300"
           >

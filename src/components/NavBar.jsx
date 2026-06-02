@@ -131,7 +131,7 @@ const NavBar = () => {
             </p>
             <div className="flex gap-3">
               <a
-                href="/resume-frontend.pdf"
+                href="/infant-resume-frontend.pdf"
                 download
                 onClick={() => setNav(false)}
                 className="px-4 py-2 rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 text-white text-sm hover:scale-105 duration-300"
@@ -140,7 +140,7 @@ const NavBar = () => {
               </a>
 
               <a
-                href="/resume-fullstack.pdf"
+                href="/infant-resume-fullstack.pdf"
                 download
                 onClick={() => setNav(false)}
                 className="px-4 py-2 rounded-md border border-cyan-500 text-cyan-400 text-sm hover:scale-105 duration-300"
